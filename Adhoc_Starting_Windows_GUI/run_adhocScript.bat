@@ -1,0 +1,3 @@
+@echo off
+echo Execute este script como Administrador...
+"%~dp0"\"Adhoc_starting.vbs"
